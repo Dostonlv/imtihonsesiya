@@ -1,0 +1,32 @@
+.headerinfo {
+  margin: 0 auto;
+  width: 100%;
+  height: 100px;
+  background-color: rgba(37, 37, 229, 0.753);
+  border: 1px solid red;
+}
+.headerinfo h1 {
+  font-size: 36pt;
+  color: aliceblue;
+  text-align: center;
+  padding: 20px 0px 0px 0px;
+}
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  padding: 40px 0px 40px 0px;
+}
+.content .as44 {
+  width: 250px;
+  font-size: 18pt;
+  margin: 10px;
+  padding: 10px 10px;
+  border: 1px solid red;
+}
+
+/*# sourceMappingURL=Ik.css.map */
